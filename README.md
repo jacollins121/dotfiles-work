@@ -49,7 +49,11 @@ Thanks to [Dreams of Autonomy - Stow manage dotfiles](https://www.youtube.com/wa
 - ripgrep - install from [here](https://github.com/BurntSushi/ripgrep?tab=readme-ov-file#installation)
 - A NerdFont - I use JetBrainsMono, there's a full list for download [here](https://www.nerdfonts.com/font-downloads)
 - oh-my-posh - terminal themes install from [here](https://ohmyposh.dev/docs/installation/macos)
+- zoxide - z instead of cd for intelligent dir changes from [here
+](https://github.com/ajeetdsouza/zoxide)
 
-## mac terminal emulators
+## mac terminal emulators/tools
 - iterm2 - install with brew or go [here](https://iterm2.com/)
 - kitty - install with brew or go [here](https://sw.kovidgoyal.net/kitty/)
+- ghostty - install with brew or go [here](https://ghostty.org/)
+- LinearMouse - For getting mouse to work more like Linux/Windows, install [here](https://linearmouse.app/)
