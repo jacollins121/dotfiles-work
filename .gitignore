@@ -1,6 +1,6 @@
 # Compiled Packer
 .config/nvim/plugin/packer_compiled.lua
-.config/packer/checkpoint_chache
+.config/packer/checkpoint_cache
 .config/packer/checkpoint_signature
 
 # Tmux plugins
