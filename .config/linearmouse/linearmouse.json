@@ -1,27 +1,47 @@
 {
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.0",
   "schemes" : [
     {
+      "if" : {
+        "device" : {
+          "productName" : "USB Gaming Mouse",
+          "vendorID" : "0x4d9",
+          "productID" : "0xfc61",
+          "category" : "mouse"
+        }
+      },
       "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        },
         "modifiers" : {
           "vertical" : {
             "control" : {
               "type" : "zoom"
             }
           }
-        },
-        "acceleration" : {
-          "vertical" : 1
         }
       },
-      "if" : {
-        "device" : {
-          "vendorID" : "0x4d9",
-          "productName" : "USB Gaming Mouse",
-          "productID" : "0xfc61",
-          "category" : "mouse"
-        }
+      "buttons" : {
+        "mappings" : [
+          {
+            "action" : "missionControl.spaceLeft",
+            "option" : false,
+            "control" : false,
+            "command" : false,
+            "button" : 3,
+            "shift" : false
+          },
+          {
+            "shift" : false,
+            "command" : false,
+            "control" : false,
+            "action" : "missionControl.spaceRight",
+            "option" : false,
+            "button" : 4
+          }
+        ]
       }
     }
-  ],
-  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.0"
+  ]
 }
