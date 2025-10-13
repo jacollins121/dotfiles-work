@@ -1,33 +1,38 @@
 {
-  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.0",
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.2",
   "schemes" : [
     {
       "buttons" : {
         "mappings" : [
           {
-            "command" : false,
-            "button" : 3,
-            "shift" : false,
-            "control" : false,
             "action" : "missionControl.spaceRight",
-            "option" : false
+            "button" : 3,
+            "command" : false,
+            "control" : false,
+            "option" : false,
+            "shift" : false
           },
           {
-            "command" : false,
-            "button" : 4,
-            "shift" : false,
-            "control" : false,
             "action" : "missionControl.spaceLeft",
-            "option" : false
+            "button" : 4,
+            "command" : false,
+            "control" : false,
+            "option" : false,
+            "shift" : false
           }
         ]
+      },
+      "if" : {
+        "device" : {
+          "category" : "mouse",
+          "productID" : "0xfc61",
+          "productName" : "USB Gaming Mouse",
+          "vendorID" : "0x4d9"
+        }
       },
       "scrolling" : {
         "acceleration" : {
           "vertical" : 1
-        },
-        "reverse" : {
-          "vertical" : true
         },
         "modifiers" : {
           "vertical" : {
@@ -35,14 +40,24 @@
               "type" : "zoom"
             }
           }
+        },
+        "reverse" : {
+          "vertical" : true
         }
-      },
+      }
+    },
+    {
       "if" : {
         "device" : {
-          "productID" : "0xfc61",
           "category" : "mouse",
-          "productName" : "USB Gaming Mouse",
-          "vendorID" : "0x4d9"
+          "productID" : "0x301a",
+          "productName" : "Dell MS116 USB Optical Mouse",
+          "vendorID" : "0x413c"
+        }
+      },
+      "scrolling" : {
+        "reverse" : {
+          "vertical" : true
         }
       }
     }
