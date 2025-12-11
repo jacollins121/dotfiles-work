@@ -24,7 +24,7 @@ bindkey '^b' history-search-backward
 bindkey '^n' history-search-forward
 
 # Command history
-HISTSIZE=10000
+HISTSIZE=100000
 HISTFILE=~/.zsh_history
 SAVEHIST=$HISTSIZE
 #HISTDUP=erase
