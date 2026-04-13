@@ -46,8 +46,8 @@ alias vim='nvim'
 
 # Env vars
 export YSU_MESSAGE_POSITION="after"
-export GOROOT=/usr/local/go
-export GOPATH=$HOME/go
+export GOROOT=/opt/homebrew/Cellar/go
+export GOPATH=/opt/homebrew/bin/go
 export PATH=$GOPATH/bin:$GOROOT/bin:~/.local/bin:$PATH
 
 # Generated for envman. Do not edit.
