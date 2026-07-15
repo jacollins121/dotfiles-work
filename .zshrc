@@ -44,12 +44,16 @@ alias history='history -f'
 alias ls='ls --color'
 alias ll='ls -alh'
 alias vim='nvim'
+alias oc='opencode'
+
 
 # Env vars
 export YSU_MESSAGE_POSITION="after"
 export GOROOT=/opt/homebrew/Cellar/go
 export GOPATH=/opt/homebrew/bin/go
 export PATH=$GOPATH/bin:$GOROOT/bin:~/.local/bin:$PATH
+export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=yes
+export OS_ACTIVITY_MODE=disable
 
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"

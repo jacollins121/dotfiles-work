@@ -1,0 +1,29 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "disabled_providers": [
+    "opencode"
+  ],
+  "provider": {
+    "Tennex": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Tennex",
+      "options": {
+        "baseURL": "https://ai-api.apps.factory.saic.com/v1/"
+      },
+      "models": {
+        "bedrock-claude-sonnet-4-6": {
+          "name": "bedrock-claude-sonnet-4-6"
+        },
+        "bedrock-claude-haiku-4-5": {
+          "name": "bedrock-claude-haiku-4-5"
+        },
+        "bedrock-claude-opus-4-8": {
+          "name": "Claude 4.8 Opus"
+        },
+        "bedrock-claude-opus-4-6": {
+          "name": "Claude 4.6 Opus"
+        }
+      }
+    }
+  }
+}
