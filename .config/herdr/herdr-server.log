@@ -278,3 +278,511 @@
 2026-07-15T13:38:15.342632Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
 2026-07-15T14:08:15.134993Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
 2026-07-15T14:08:15.375921Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T14:38:15.120643Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T14:38:15.764758Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T15:08:15.122134Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T15:08:15.594402Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T15:38:15.104822Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T15:38:15.390958Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T16:08:15.124809Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T16:08:15.367130Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T16:38:15.171140Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T16:38:15.745999Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T17:08:15.188458Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T17:08:15.673998Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T17:38:15.212016Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T17:38:16.052737Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T18:08:15.233605Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T18:08:15.807323Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T18:38:15.256899Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T18:38:33.729008Z  WARN herdr::logging: update check failed event="update.check.complete" subsystem="update" outcome="error" err="failed to fetch Homebrew formula JSON"
+2026-07-15T18:38:34.154734Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T19:08:15.278059Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T19:08:15.955834Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T19:38:15.300848Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T19:38:15.935059Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T20:42:37.988716Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T20:42:38.594075Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T21:12:37.997810Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T21:12:38.758462Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T21:42:38.009618Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-15T21:42:38.700071Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.7.4"
+2026-07-15T21:42:38.747298Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T21:42:39.298471Z  INFO herdr::update: auto-update check: v0.7.4 available through Homebrew, waiting for explicit install
+2026-07-15T22:12:38.753016Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T22:42:38.604720Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T23:12:38.704967Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-15T23:42:38.920973Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T00:12:38.720007Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T00:42:38.759672Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T01:12:38.744911Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T01:42:38.688330Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T02:12:38.939673Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T02:42:38.807895Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T03:12:38.768570Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T03:42:38.733659Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T04:12:38.801554Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T04:42:38.850802Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T05:12:38.927355Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T05:42:38.862372Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T06:12:38.767322Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T06:42:38.760752Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T07:12:38.879735Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T07:42:38.872157Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T08:12:39.097146Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T08:42:38.861945Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T09:12:38.879788Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T09:42:39.096512Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T10:12:39.127975Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T10:42:38.923338Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T11:02:36.577114Z  INFO herdr::server::headless: client resize client_id=8 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-16T11:02:39.716996Z  INFO herdr::server::headless: client resize client_id=8 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-16T11:12:39.241366Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T11:42:38.849522Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T12:12:38.964688Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T12:42:39.231658Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T13:12:39.386909Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T13:42:40.306655Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T14:08:42.006181Z  INFO herdr::pane: agent changed pane=18 previous_agent=Some(OpenCode) agent=None pgid=Some(86836)
+2026-07-16T14:08:45.541258Z  INFO herdr::pane: agent changed pane=18 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(56552)
+2026-07-16T14:09:05.415113Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T14:09:07.118852Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T14:09:12.126794Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-16T14:09:25.686239Z  INFO herdr::pane: agent changed pane=18 previous_agent=Some(OpenCode) agent=None pgid=Some(86836)
+2026-07-16T14:09:27.194992Z  INFO herdr::pane: agent changed pane=18 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(58113)
+2026-07-16T14:09:42.999125Z  INFO herdr::server::headless: client disconnected client_id=8
+2026-07-16T14:10:36.167465Z  INFO herdr::pane: agent changed pane=18 previous_agent=Some(OpenCode) agent=None pgid=Some(86836)
+2026-07-16T14:10:37.176858Z  INFO herdr::pane: agent changed pane=18 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(59295)
+2026-07-16T14:10:40.824006Z  INFO herdr::pane: agent changed pane=18 previous_agent=Some(OpenCode) agent=None pgid=Some(86836)
+2026-07-16T14:12:38.567985Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T14:12:49.532151Z  INFO herdr::app::actions: copied selection to clipboard
+2026-07-16T14:26:54.175550Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=19 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-16T14:26:54.182555Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=19 pid=84373
+2026-07-16T14:26:54.182726Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T14:26:59.194590Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-16T14:27:02.303780Z  INFO herdr::pane: agent changed pane=19 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(84762)
+2026-07-16T14:27:51.068319Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-16T14:42:38.463902Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T15:07:35.026406Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T15:07:35.776774Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T15:07:35.943550Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T15:07:36.627256Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T15:07:36.827298Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T15:07:41.830808Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-16T15:12:38.504686Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T15:42:38.598408Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T16:12:38.833240Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T16:42:38.896109Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T17:12:38.989632Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T17:42:39.016588Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T18:12:38.862093Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T18:13:37.089745Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-16T18:13:37.813185Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=18 status="ExitStatus { code: 0, signal: None }"
+2026-07-16T18:13:37.813680Z  INFO herdr::pane: pane session terminated pane=18 pid=86836 signal=Hangup
+2026-07-16T18:13:42.899082Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-16T18:42:38.946301Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T19:12:38.977347Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T19:42:38.900151Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T20:12:38.975674Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T20:42:38.891551Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T21:12:38.893795Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T21:42:38.859518Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T22:12:38.853980Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T22:42:38.938787Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T23:12:38.833134Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-16T23:42:38.864055Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T00:12:38.861228Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T00:42:38.954010Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T01:12:39.114566Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T01:42:38.961661Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T02:12:38.958055Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T02:42:38.968456Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T03:12:38.925670Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T03:42:39.910029Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T04:12:38.950611Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T04:42:38.824306Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T05:12:39.038401Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T05:42:38.878223Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T06:12:39.007492Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T06:42:38.965813Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T07:12:38.951519Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T07:42:39.009117Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T08:12:38.766646Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T08:42:38.938802Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T09:12:38.900328Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T09:42:38.759038Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T10:12:38.947626Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T10:42:38.953667Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T11:12:38.855232Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T11:42:38.928118Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T12:12:38.812804Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T12:42:38.731454Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T13:12:38.970675Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T13:42:38.787661Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T14:12:39.012834Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T14:42:38.906567Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T15:12:38.938098Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T15:42:38.832185Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T16:12:38.896216Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T16:42:38.894580Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T17:12:38.935156Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T17:42:38.896139Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T18:12:38.903588Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T18:42:38.819435Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T19:12:38.944207Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T19:42:38.650216Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T20:12:38.809497Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T20:42:39.279810Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T21:12:38.906937Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T21:42:38.876509Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T22:12:38.891146Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T22:42:38.915498Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T23:12:38.730204Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-17T23:42:38.905475Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T00:12:38.842328Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T00:42:38.694606Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T01:12:38.996974Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T01:42:38.686683Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T02:12:38.797186Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T02:42:38.838983Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T03:12:38.743271Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T03:42:38.628676Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T04:12:38.755138Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T04:42:38.747187Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T05:12:38.829447Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T05:42:38.928491Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T06:12:38.746362Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T06:42:38.741647Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T07:12:38.715198Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T07:42:38.751315Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T08:12:38.701030Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T08:42:38.824342Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T09:12:38.887965Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T09:42:38.781424Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T10:12:38.747697Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T10:42:38.655910Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T11:12:38.551452Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T11:42:38.644153Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T12:12:38.692461Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T12:42:39.482226Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T13:12:38.728559Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T13:42:38.811505Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T14:12:38.729618Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T14:42:38.701249Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T15:12:38.681898Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T15:42:38.803506Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T16:12:38.779324Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T16:42:38.764535Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T17:12:38.692979Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T17:42:38.644568Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T18:12:38.636892Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T18:42:38.741198Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T19:12:38.674099Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T19:42:38.515599Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T20:12:38.659823Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T20:42:38.651172Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T21:12:38.616190Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T21:42:38.726356Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T22:12:38.571064Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T22:42:38.715125Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T23:12:38.605674Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-18T23:42:38.641265Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T00:12:38.601385Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T00:42:38.627188Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T01:12:38.671843Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T01:42:38.537026Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T02:12:38.749593Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T02:42:38.614870Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T03:12:38.411382Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T03:42:38.481703Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T04:12:38.599560Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T04:42:38.585529Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T05:12:38.571170Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T05:42:38.535991Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T06:12:38.637935Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T06:42:38.586076Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T07:12:38.596862Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T07:42:38.513714Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T08:12:38.664324Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T08:42:38.638016Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T09:12:38.535212Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T09:42:38.646216Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T10:12:38.642811Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T10:42:38.639597Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T11:12:38.548503Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T11:42:38.567638Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T12:12:38.397852Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T12:42:38.429843Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T13:12:38.554164Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T13:42:38.529912Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T14:12:38.663620Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T14:42:38.516620Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T15:12:38.475771Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T15:42:38.636320Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T16:12:38.512205Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T16:42:38.461185Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T17:12:38.456846Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T17:42:38.325096Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T18:12:38.624451Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T18:42:38.454456Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T19:12:38.307767Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T19:42:38.469293Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T20:12:38.456849Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T20:42:38.449832Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T21:12:38.479209Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T21:42:38.540057Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T22:12:38.393276Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T22:42:38.391781Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T23:12:38.667436Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-19T23:42:38.382141Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T00:12:38.401847Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T00:42:38.468501Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T01:12:38.573773Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T01:42:38.368769Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T02:12:38.570464Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T02:42:38.492668Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T03:12:38.244204Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T03:42:38.259249Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T04:12:38.504562Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T04:42:38.382316Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T05:12:38.330310Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T05:42:38.369239Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T06:12:38.502858Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T06:42:38.376593Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T07:12:38.502310Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T07:42:38.375421Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T08:12:38.429752Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T08:42:38.526137Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T09:12:38.457735Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T09:42:38.204282Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T10:12:38.360744Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T10:42:38.300746Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T11:12:38.329014Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T11:42:38.360142Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T11:45:13.421920Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wD"
+2026-07-20T11:45:13.422173Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T11:45:18.433197Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T12:12:38.396758Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T12:42:38.425300Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T13:12:38.285958Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T13:16:06.472277Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=20 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T13:16:06.479418Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=20 pid=35468
+2026-07-20T13:16:06.480938Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:16:11.064403Z  INFO herdr::pane: agent changed pane=20 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(35507)
+2026-07-20T13:16:11.484971Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:16:31.511359Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:17:52.060062Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:17:57.067068Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:35:20.058668Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:35:25.069742Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:36:01.993722Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:36:09.832263Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:39:13.965042Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:39:26.726122Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:39:50.129406Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:39:56.519938Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:42:39.291292Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T13:42:54.120112Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:48:36.239985Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:52:49.685222Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:53:06.378585Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:53:16.264780Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:53:34.892278Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T13:53:48.361802Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T13:53:53.369784Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T14:12:40.209548Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T14:41:18.970106Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wD" tab_id="wD:t1"
+2026-07-20T14:41:23.976848Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T14:42:40.874819Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T15:12:40.112342Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T15:42:41.046187Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T16:12:40.862870Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T16:42:41.142931Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T17:12:41.731678Z  WARN herdr::detect::manifest_update: skipping unknown remote manifest agent agent="maki"
+2026-07-20T17:33:20.800084Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=19 status="ExitStatus { code: 0, signal: None }"
+2026-07-20T17:33:20.800710Z  INFO herdr::pane: pane session terminated pane=19 pid=84373 signal=Hangup
+2026-07-20T17:33:25.810030Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T17:33:25.879786Z  INFO herdr::pane: agent changed pane=20 previous_agent=Some(OpenCode) agent=None pgid=Some(35468)
+2026-07-20T17:33:27.803096Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=20 status="ExitStatus { code: 0, signal: None }"
+2026-07-20T17:33:27.803320Z  INFO herdr::pane: pane session terminated pane=20 pid=35468 signal=Hangup
+2026-07-20T17:33:27.803972Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=21 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T17:33:27.812731Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=21 pid=71329
+2026-07-20T17:33:27.812935Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="wE" pane_id=21
+2026-07-20T17:33:27.812954Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wE"
+2026-07-20T17:33:27.812970Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wE" tab_id="wE:t1"
+2026-07-20T17:33:28.841508Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=21 status="ExitStatus { code: 0, signal: None }"
+2026-07-20T17:33:28.841588Z  INFO herdr::pane: pane session terminated pane=21 pid=71329 signal=Hangup
+2026-07-20T17:33:28.841696Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=22 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T17:33:28.845986Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=22 pid=71362
+2026-07-20T17:33:28.846165Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="wF" pane_id=22
+2026-07-20T17:33:28.846178Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wF"
+2026-07-20T17:33:28.846187Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wF" tab_id="wF:t1"
+2026-07-20T17:33:31.425127Z  INFO herdr::logging: workspace closed event="workspace.close" subsystem="workspace" outcome="ok" workspace_id="wF"
+2026-07-20T17:33:31.440770Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=22 status="ExitStatus { code: 1, signal: None }"
+2026-07-20T17:33:31.465795Z  INFO herdr::pane: pane session terminated pane=22 pid=71362 signal=Hangup
+2026-07-20T17:33:31.466412Z  WARN herdr::app::actions: PaneDied for unknown pane pane=22
+2026-07-20T17:33:31.466671Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=23 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T17:33:31.485445Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=23 pid=71386
+2026-07-20T17:33:31.485755Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="wG" pane_id=23
+2026-07-20T17:33:31.485776Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wG"
+2026-07-20T17:33:31.485795Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wG" tab_id="wG:t1"
+2026-07-20T17:33:34.145727Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=23 status="ExitStatus { code: 130, signal: None }"
+2026-07-20T17:33:34.145911Z  INFO herdr::pane: pane session terminated pane=23 pid=71386 signal=Hangup
+2026-07-20T17:33:34.146100Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=24 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T17:33:34.285288Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=24 pid=71426
+2026-07-20T17:33:34.287307Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="wH" pane_id=24
+2026-07-20T17:33:34.287347Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wH"
+2026-07-20T17:33:34.287366Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wH" tab_id="wH:t1"
+2026-07-20T17:33:39.298621Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T17:33:39.356703Z  INFO herdr::logging: workspace closed event="workspace.close" subsystem="workspace" outcome="ok" workspace_id="wH"
+2026-07-20T17:33:39.373242Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=24 status="ExitStatus { code: 1, signal: None }"
+2026-07-20T17:33:39.392883Z  INFO herdr::pane: pane session terminated pane=24 pid=71426 signal=Hangup
+2026-07-20T17:33:39.393593Z  WARN herdr::app::actions: PaneDied for unknown pane pane=24
+2026-07-20T17:33:39.393925Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=25 rows=27 cols=115 scrollback_limit_bytes=10000000
+2026-07-20T17:33:39.403050Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=25 pid=71462
+2026-07-20T17:33:39.403275Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="wJ" pane_id=25
+2026-07-20T17:33:39.403294Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="wJ"
+2026-07-20T17:33:39.403306Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wJ" tab_id="wJ:t1"
+2026-07-20T17:33:40.880923Z  INFO herdr::server::headless: client detach requested via keybind client_id=12
+2026-07-20T17:33:40.886462Z  INFO herdr::server::headless: client disconnected client_id=12
+2026-07-20T17:33:44.412341Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T18:00:28.280348Z  INFO herdr::api::server: api server listening path=/Users/collinsjere/.config/herdr/herdr.sock
+2026-07-20T18:00:28.294366Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=1 rows=24 cols=80 scrollback_limit_bytes=10000000
+2026-07-20T18:00:28.311109Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=1 pid=5657
+2026-07-20T18:00:28.313094Z  INFO herdr::logging: session restore evaluated event="persist.restore" subsystem="persist" outcome="ok" workspaces=1
+2026-07-20T18:00:28.314315Z  INFO herdr::app: using pane scrollback configuration pane_scrollback_limit_bytes=10000000
+2026-07-20T18:00:28.471287Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T18:00:28.574185Z  INFO herdr::server::headless: restored session already has workspaces; ignoring startup cwd cwd=/Users/collinsjere
+2026-07-20T18:00:28.584177Z  INFO herdr::server::headless: client protocol socket listening path=/Users/collinsjere/.config/herdr/herdr-client.sock
+2026-07-20T18:00:28.586539Z  INFO herdr::server::headless: herdr server started api_socket=/Users/collinsjere/.config/herdr/herdr.sock client_socket=/Users/collinsjere/.config/herdr/herdr-client.sock
+2026-07-20T18:00:28.588878Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="server" outcome="started" pid=5656
+2026-07-20T18:00:28.848872Z  INFO herdr::server::headless: client connected client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0 render_encoding=SemanticFrame
+2026-07-20T18:00:42.314560Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-20T18:30:28.488795Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T18:37:25.806109Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(5657)
+2026-07-20T18:41:45.425399Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-20T18:41:47.449675Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(13987)
+2026-07-20T19:00:28.503043Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T19:30:28.521566Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T20:00:28.540763Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T20:45:56.559199Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T21:15:56.576057Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T21:45:56.591817Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T22:15:56.609256Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T22:45:56.630661Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T23:15:56.649812Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-20T23:45:56.666853Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T00:15:56.686473Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T00:45:56.705788Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T01:15:56.724712Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T01:45:56.739049Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T02:15:56.756683Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T02:45:56.772614Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T03:15:56.789744Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T03:45:56.804033Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T04:15:56.819542Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T04:45:56.840712Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T05:15:56.861015Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T05:45:56.882596Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T06:15:56.899069Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T06:45:56.921457Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T07:15:56.945241Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T08:03:30.353393Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T08:33:30.367134Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T09:03:30.380835Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T09:33:30.395543Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T10:03:30.410784Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T10:33:30.427322Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T11:03:30.441093Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T11:33:30.459508Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T12:03:30.292494Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T12:33:30.339229Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T12:53:36.228603Z  INFO herdr::server::headless: client resize client_id=2 cols=113 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-21T12:53:36.333427Z  INFO herdr::server::headless: client resize client_id=2 cols=134 rows=29 cell_width_px=0 cell_height_px=0
+2026-07-21T12:53:36.438310Z  INFO herdr::server::headless: client resize client_id=2 cols=173 rows=34 cell_width_px=0 cell_height_px=0
+2026-07-21T12:53:36.543336Z  INFO herdr::server::headless: client resize client_id=2 cols=200 rows=36 cell_width_px=0 cell_height_px=0
+2026-07-21T12:53:36.648098Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-21T12:53:48.058502Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=2 rows=36 cols=176 scrollback_limit_bytes=10000000
+2026-07-21T12:53:48.068887Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=2 pid=22496
+2026-07-21T12:53:48.069248Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wJ" tab_id="wJ:t1"
+2026-07-21T12:53:52.733251Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=2 status="ExitStatus { code: 0, signal: None }"
+2026-07-21T12:53:52.733350Z  INFO herdr::pane: pane session terminated pane=2 pid=22496 signal=Hangup
+2026-07-21T12:53:57.740278Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-21T12:54:17.250460Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-21T13:00:52.577586Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-21T13:01:00.530653Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=3 rows=36 cols=176 scrollback_limit_bytes=10000000
+2026-07-21T13:01:00.538886Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=3 pid=25456
+2026-07-21T13:01:00.542497Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="wJ" tab_id="wJ:t1"
+2026-07-21T13:01:04.127793Z  INFO herdr::pane: agent changed pane=3 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(25496)
+2026-07-21T13:01:05.551493Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-21T13:01:22.071518Z  INFO herdr::pane: agent changed pane=3 previous_agent=Some(OpenCode) agent=None pgid=Some(25456)
+2026-07-21T13:01:22.173087Z  INFO herdr::logging: pane child exited event="pane.exit" subsystem="pane" outcome="completed" pane_id=3 status="ExitStatus { code: 0, signal: None }"
+2026-07-21T13:01:22.173331Z  INFO herdr::pane: pane session terminated pane=3 pid=25456 signal=Hangup
+2026-07-21T13:01:27.184031Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/Users/collinsjere/.config/herdr/session.json workspaces=1
+2026-07-21T13:01:49.764151Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-21T13:03:30.369680Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T13:03:31.706685Z  INFO herdr::server::headless: client resize client_id=2 cols=114 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-21T13:03:31.810466Z  INFO herdr::server::headless: client resize client_id=2 cols=141 rows=30 cell_width_px=0 cell_height_px=0
+2026-07-21T13:03:31.911305Z  INFO herdr::server::headless: client resize client_id=2 cols=185 rows=35 cell_width_px=0 cell_height_px=0
+2026-07-21T13:03:32.017815Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-21T13:33:30.400725Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T13:49:41.120207Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-21T13:49:47.611632Z  INFO herdr::app::actions: copied selection to clipboard
+2026-07-21T13:49:51.735990Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(33496)
+2026-07-21T13:50:04.254569Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-21T13:50:09.854247Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(33590)
+2026-07-21T14:03:30.355961Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T14:33:30.362162Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T15:00:20.480347Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-21T15:00:23.001649Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(43107)
+2026-07-21T15:03:30.373566Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T15:33:30.381915Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T15:35:21.299536Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-21T15:35:29.344016Z  INFO herdr::app::actions: copied selection to clipboard
+2026-07-21T15:35:32.409864Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(48315)
+2026-07-21T16:03:30.388416Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T16:33:30.394801Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T17:03:30.402242Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T17:04:12.994507Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-21T17:04:14.511926Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(58345)
+2026-07-21T17:33:30.398081Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T18:03:30.404061Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T18:33:30.410656Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T19:03:30.418974Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T19:33:30.423664Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T20:03:30.437965Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T20:50:28.426514Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T21:20:28.432897Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T21:50:28.444936Z  INFO herdr::logging: checking for updates event="update.check.start" subsystem="update" outcome="started"
+2026-07-21T21:50:28.934168Z  INFO herdr::logging: update available event="update.available" subsystem="update" outcome="ok" version="0.7.5"
+2026-07-21T21:50:29.477779Z  INFO herdr::update: auto-update check: v0.7.5 available through Homebrew, waiting for explicit install
+2026-07-22T11:07:57.812303Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-22T11:08:01.434841Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-22T11:08:02.462203Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-22T11:41:44.547431Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-22T11:41:48.991073Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-22T11:54:57.398388Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(72908)
+2026-07-22T15:54:12.980375Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=26 cell_width_px=0 cell_height_px=0
+2026-07-22T15:54:19.019194Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-22T20:08:24.481268Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-22T20:08:28.517642Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(20190)
+2026-07-22T22:09:32.486808Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-22T22:09:39.833178Z  INFO herdr::app::actions: copied selection to clipboard
+2026-07-22T22:09:42.072815Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(31386)
+2026-07-23T12:11:09.010328Z  INFO herdr::server::headless: client resize client_id=2 cols=129 rows=29 cell_width_px=0 cell_height_px=0
+2026-07-23T12:11:09.114236Z  INFO herdr::server::headless: client resize client_id=2 cols=173 rows=34 cell_width_px=0 cell_height_px=0
+2026-07-23T12:11:09.217397Z  INFO herdr::server::headless: client resize client_id=2 cols=200 rows=36 cell_width_px=0 cell_height_px=0
+2026-07-23T12:11:09.319418Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-23T12:11:46.894247Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-23T12:21:12.077013Z  INFO herdr::server::headless: client resize client_id=2 cols=202 rows=37 cell_width_px=0 cell_height_px=0
+2026-07-23T12:21:57.688405Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-23T12:34:57.333543Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-23T12:35:42.729487Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(72110)
+2026-07-23T14:46:05.935714Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=26 cell_width_px=0 cell_height_px=0
+2026-07-23T14:46:06.249417Z  INFO herdr::server::headless: client resize client_id=2 cols=106 rows=25 cell_width_px=0 cell_height_px=0
+2026-07-23T14:46:09.140991Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=26 cell_width_px=0 cell_height_px=0
+2026-07-23T14:46:09.474972Z  INFO herdr::server::headless: client resize client_id=2 cols=112 rows=27 cell_width_px=0 cell_height_px=0
+2026-07-23T14:46:10.217270Z  INFO herdr::server::headless: client resize client_id=2 cols=119 rows=28 cell_width_px=0 cell_height_px=0
+2026-07-23T14:46:10.944266Z  INFO herdr::server::headless: client resize client_id=2 cols=119 rows=29 cell_width_px=0 cell_height_px=0
+2026-07-23T15:27:23.767489Z  INFO herdr::pane: agent changed pane=1 previous_agent=Some(OpenCode) agent=None pgid=Some(5657)
+2026-07-23T15:27:24.780867Z  INFO herdr::pane: agent changed pane=1 previous_agent=None agent=Some(OpenCode) process=opencode pgid=Some(94257)

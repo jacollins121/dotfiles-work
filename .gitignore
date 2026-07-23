@@ -5,3 +5,7 @@
 
 # Tmux plugins
 .config/tmux/plugins/**
+
+.config/herdr/herdr-client.log
+.config/herdr/herdr-server.log
+.config/herdr/session.json

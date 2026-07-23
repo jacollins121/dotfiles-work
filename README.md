@@ -32,6 +32,8 @@ Thanks to [Dreams of Autonomy - Stow manage dotfiles](https://www.youtube.com/wa
 
 ## stow-based dotfiles management
 
+[stow](https://tamerlan.dev/how-i-manage-my-dotfiles-using-gnu-stow/)
+
 - stow
   - MacOS
 
