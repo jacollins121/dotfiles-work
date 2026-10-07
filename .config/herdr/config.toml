@@ -3,6 +3,7 @@ onboarding = false
 agent_panel_sort = "spaces"
 
 [keys]
+detach = ["prefix+d"]
 previous_tab = ["prefix+p", "alt+shift+h"]
 next_tab = ["prefix+n", "alt+shift+l"]
 split_horizontal = 'prefix+"'

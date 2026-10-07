@@ -5,7 +5,12 @@
 
 # Tmux plugins
 .config/tmux/plugins/**
+.config/herdr/release-notes.json
 
 .config/herdr/herdr-client.log
 .config/herdr/herdr-server.log
 .config/herdr/session.json
+
+.config/.DS_Store
+.config/herdr/.plugins.lock
+.config/opencode/service.json

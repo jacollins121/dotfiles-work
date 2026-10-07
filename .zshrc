@@ -45,7 +45,8 @@ alias ls='ls --color'
 alias ll='ls -alh'
 alias vim='nvim'
 alias oc='opencode'
-
+alias timecard="python3 ~/repos/doi/scripts/timekeeper/timecard.py"
+alias tc="python3 ~/repos/doi/scripts/timekeeper/timecard.py"
 
 # Env vars
 export YSU_MESSAGE_POSITION="after"
@@ -66,3 +67,6 @@ eval "$(zoxide init zsh)"
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /opt/homebrew/bin/terragrunt terragrunt
+
+# Corporate (Zscaler) CA bundle for AWS CLI - added by setup_zscaler_ca.sh
+export AWS_CA_BUNDLE="/Users/collinsjere/.aws/corp-ca-bundle.pem"
