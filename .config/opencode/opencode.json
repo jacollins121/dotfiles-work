@@ -1,5 +1,43 @@
 {
   "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "asdecided-wiki": {
+      "type": "local",
+      "command": [
+        "decided-mcp",
+        "--root",
+        "/Users/collinsjere/repos/doi/doi_gp_wiki"
+      ],
+      "enabled": true
+    },
+    "asdecided-terraform": {
+      "type": "local",
+      "command": [
+        "decided-mcp",
+        "--root",
+        "/Users/collinsjere/repos/doi/terragrunt/modules"
+      ],
+      "enabled": true
+    },
+    "asdecided-terragrunt": {
+      "type": "local",
+      "command": [
+        "decided-mcp",
+        "--root",
+        "/Users/collinsjere/repos/doi/terragrunt"
+      ],
+      "enabled": true
+    },
+    "asdecided-remote-ansible": {
+      "type": "local",
+      "command": [
+        "decided-mcp",
+        "--root",
+        "/Users/collinsjere/repos/doi/remote_ansible"
+      ],
+      "enabled": true
+    }
+  },
   "disabled_providers": [
     "opencode"
   ],
