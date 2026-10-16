@@ -55,6 +55,7 @@ export GOPATH=/opt/homebrew/bin/go
 export PATH=$GOPATH/bin:$GOROOT/bin:~/.local/bin:$PATH
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=yes
 export OS_ACTIVITY_MODE=disable
+export ANSIBLE_FORCE_COLOR=true
 
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
