@@ -1,24 +1,28 @@
 {
-  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.2",
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.12.0",
   "schemes" : [
     {
       "buttons" : {
         "mappings" : [
           {
-            "action" : "missionControl.spaceRight",
-            "button" : 3,
-            "command" : false,
-            "control" : false,
-            "option" : false,
-            "shift" : false
+            "outcomes" : {
+              "shortPress" : "missionControl.spaceRight"
+            },
+            "trigger" : {
+              "input" : {
+                "button" : 3
+              }
+            }
           },
           {
-            "action" : "missionControl.spaceLeft",
-            "button" : 4,
-            "command" : false,
-            "control" : false,
-            "option" : false,
-            "shift" : false
+            "outcomes" : {
+              "shortPress" : "missionControl.spaceLeft"
+            },
+            "trigger" : {
+              "input" : {
+                "button" : 4
+              }
+            }
           }
         ]
       },
@@ -54,6 +58,71 @@
           "productName" : "Dell MS116 USB Optical Mouse",
           "vendorID" : "0x413c"
         }
+      },
+      "scrolling" : {
+        "reverse" : {
+          "vertical" : true
+        }
+      }
+    },
+    {
+      "buttons" : {
+        "clickDebouncing" : {
+          "buttons" : [
+            0
+          ],
+          "timeout" : 0
+        },
+        "gesture" : {
+          "actions" : {
+            "down" : "appExpose",
+            "left" : "missionControl.spaceLeft",
+            "right" : "missionControl.spaceRight",
+            "up" : "missionControl"
+          },
+          "enabled" : false,
+          "threshold" : 50,
+          "trigger" : {
+            "button" : 2
+          }
+        },
+        "mappings" : [
+          {
+            "outcomes" : {
+              "shortPress" : "missionControl.spaceRight"
+            },
+            "trigger" : {
+              "input" : {
+                "button" : 3
+              }
+            }
+          },
+          {
+            "outcomes" : {
+              "shortPress" : "missionControl.spaceLeft"
+            },
+            "trigger" : {
+              "input" : {
+                "button" : 4
+              }
+            }
+          }
+        ],
+        "switchPrimaryButtonAndSecondaryButtons" : false,
+        "universalBackForward" : false
+      },
+      "if" : {
+        "device" : {
+          "category" : "mouse",
+          "productID" : "0x8a0",
+          "vendorID" : "0x1bcf"
+        }
+      },
+      "pointer" : {
+        "acceleration" : 8,
+        "disableAcceleration" : false,
+        "redirectsToScroll" : false,
+        "speed" : "unset"
       },
       "scrolling" : {
         "reverse" : {
