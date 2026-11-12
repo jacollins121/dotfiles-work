@@ -3,14 +3,20 @@
 .config/packer/checkpoint_cache
 .config/packer/checkpoint_signature
 
-# Tmux plugins
+# tmux plugins
 .config/tmux/plugins/**
 .config/herdr/release-notes.json
 
+# herdr
+.config/herdr/herdr.sock.agent
+.config/herdr/session-snapshots/
+.config/herdr/sessions/
 .config/herdr/herdr-client.log
 .config/herdr/herdr-server.log
 .config/herdr/session.json
+.config/herdr/.plugins.lock
 
 .config/.DS_Store
-.config/herdr/.plugins.lock
+
+# opencode
 .config/opencode/service.json
